@@ -23,9 +23,12 @@ img{
     opacity: 1;
 }
 @media only screen and (max-device-width:500px)  {
-    .navbar-light{
-        margin-left: 100px;
-        padding-top: 0;
+    /* body{
+        overflow: hidden;
+    } */
+    .navbar-light img{
+      margin:0;
+      padding:0;    
     }
 
     h1{
