@@ -24,7 +24,7 @@ img{
 }
 @media only screen and (max-device-width:500px)  {
     .navbar-light{
-        margin-left: 100px;
+        margin-left: 00px;
         padding-top: 0;
     }
 
